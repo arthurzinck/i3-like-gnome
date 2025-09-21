@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.i3-like-shortcuts" path="/org/gnome/shell/extensions/i3-like-shortcuts/">
+    <!-- This extension doesn't require any user-configurable settings -->
+    <!-- All configuration is done automatically when the extension is enabled -->
+  </schema>
+</schemalist>
